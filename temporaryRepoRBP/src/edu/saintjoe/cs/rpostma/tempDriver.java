@@ -13,7 +13,7 @@ public class tempDriver {
 			System.out.println("Array has " + array[i] + " in position " + i);
 		}
 		System.out.println("Notice a pattern?");
-	
+	// I am Jude Brace and I approve this message
 	}
 	
 }
